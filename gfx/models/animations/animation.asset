@@ -1,0 +1,103 @@
+animation = {
+	name = "WesternIdle"
+	file = "gfx/models/animations/western_idle.anim"
+}
+
+animation = {
+	name = "DefaultAttack"
+	file = "gfx/models/animations/generic_attack.anim"
+}
+
+animation = {
+	name = "WesternWalk"
+	file = "gfx/models/animations/western_walk.anim"
+}
+
+animation = {
+	name = "Selection_animation"
+	file = "gfx/models/animations/selection_idle.anim"
+}
+
+animation = {
+	name = "EasternIdle"
+	file = "gfx/models/animations/eastern_idle.anim"
+}
+
+animation = {
+	name = "EasternWalk"
+	file = "gfx/models/animations/eastern_walk.anim"
+}
+
+animation = {
+	name = "DefaultRetreat"
+	file = "gfx/models/animations/generic_retreat.anim"
+}
+
+
+animation = {
+	name = "bigship_idle"
+	file = "gfx/models/animations/Threedecker_idle.anim"
+}
+animation = {
+	name = "bigship_move"
+	file = "gfx/models/animations/Threedecker_walk.anim"
+}
+animation = {
+	name = "bigship_attack"
+	file = "gfx/models/animations/Threedecker_attack.anim"
+}
+
+
+animation = {
+	name = "frigate_idle"
+	file = "gfx/models/animations/frigate_idle.anim"
+}
+animation = {
+	name = "frigate_move"
+	file = "gfx/models/animations/frigate_walk.anim"
+}
+animation = {
+	name = "frigate_attack"
+	file = "gfx/models/animations/frigate_attack.anim"
+}
+
+
+animation = {
+	name = "galley_idle"
+	file = "gfx/models/animations/galley_idle.anim"
+}
+animation = {
+	name = "galley_move"
+	file = "gfx/models/animations/galley_walk.anim"
+}
+animation = {
+	name = "galley_attack"
+	file = "gfx/models/animations/galley_attack.anim"
+}
+
+animation = {
+	name = "transport_idle"
+	file = "gfx/models/animations/transport_walk.anim"
+}
+animation = {
+	name = "transport_move"
+	file = "gfx/models/animations/transport_walk.anim"
+}
+animation = {
+	name = "transport_attack"
+	file = "gfx/models/animations/transport_attack.anim"
+}
+
+
+animation = {
+	name = "build_military"
+	file = "gfx/models/animations/Build_Military_idle.anim"
+}
+animation = {
+	name = "build_ships"
+	file = "gfx/models/animations/Build_Ships_idle.anim"
+}
+animation = {
+	name = "build_structure"
+	file = "gfx/models/animations/Build_Structure_idle.anim"
+}
